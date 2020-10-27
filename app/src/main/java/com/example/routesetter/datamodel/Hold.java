@@ -1,5 +1,12 @@
 package com.example.routesetter.datamodel;
 
-public interface Hold {
+import com.example.routesetter.datamodel.impl.HoldLocation;
 
+public interface Hold extends Storable {
+
+  public Double getX();
+
+  public Double getY();
+
+  public HoldLocation getLocation();
 }
