@@ -3,4 +3,13 @@
   <string name="title_home">Home</string>
   <string name="title_dashboard">Dashboard</string>
   <string name="title_notifications">Notifications</string>
+
+<!--  Menu -->
+  <string name="menu_new_route">New Route</string>
+
+<!--  Route view  -->
+  <string name="default_route_name">Route Name</string>
+  <string name="route_grade">Grade</string>
+  <string name="btn_propose_grade">Propose Grade</string>
+  <string name="btn_rate">Rate</string>
 </resources>
